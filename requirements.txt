@@ -1,0 +1,78 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# Frontend
+streamlit
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Data Processing
+pandas
+numpy
+pyarrow
+
+# Validation
+pydantic
+pydantic-settings
+
+# API Calls
+requests
+httpx
+
+# Environment Variables
+python-dotenv
+
+# Authentication
+passlib[bcrypt]
+python-jose[cryptography]
+
+# Snowflake
+snowflake-connector-python
+snowflake-sqlalchemy
+
+# Kafka
+kafka-python
+confluent-kafka
+
+# AWS / S3 / MinIO
+boto3
+minio
+
+# Airflow API Integration Helpers
+apache-airflow-client
+
+# Data Quality
+great-expectations
+
+# Logging
+loguru
+
+# Testing
+pytest
+pytest-asyncio
+
+# Documentation
+mkdocs
+mkdocs-material
+
+# Utilities
+tenacity
+python-dateutil
+
+# OpenMetadata SDK
+openmetadata-ingestion
+
+# dbt Snowflake
+dbt-core
+dbt-snowflake
+
+# Visualization Helpers
+plotly
+
+# Jupyter (Optional)
+jupyter
+ipykernel
